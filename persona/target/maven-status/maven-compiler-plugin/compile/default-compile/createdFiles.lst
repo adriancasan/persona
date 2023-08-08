@@ -1,0 +1,6 @@
+com\persona\persona\Controller\PersonaController.class
+com\persona\persona\Service\IPersonaService.class
+com\persona\persona\Service\PersonaService.class
+com\persona\persona\PersonaApplication.class
+com\persona\persona\Repository\PersonaRepository.class
+com\persona\persona\Model\Persona.class
